@@ -6,9 +6,7 @@
 </p>
 
 - 🏗 Developed **E-Cell Website & Anwesha Contributions**
-- 🔥 Working on **Compilers & 8-bit CPU SimpleLang**
-- 💻 Tech Stack: **Next.js, Django, Node.js, PostgreSQL, TypeScript, Compilers**
-- 🎯 Applying for **DRDO Internship (DMSRDE, NMRL, ARDE)**
+- 💻 Tech Stack: **Next.js, Django, Node.js, PostgreSQL, TypeScript**
 - ⚡ Open Source Contributor & Competitive Programmer
 
 ## 🚀 My Tech Stack
@@ -21,7 +19,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
-![Compiler](https://img.shields.io/badge/Compiler-8A2BE2?style=for-the-badge)
 
 ## 📌 Featured Projects
 - 🔹 [Node.js School Management API](https://github.com/ajaykumarsaini231/school-management-api)
