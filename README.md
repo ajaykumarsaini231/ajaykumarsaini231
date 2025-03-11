@@ -21,17 +21,16 @@
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
 
 ## 📌 Featured Projects
-- 🔹 [Node.js School Management API](https://github.com/ajaykumarsaini231/school-management-api)
 - 🔹 [E-Cell Website](https://github.com/ajaykumarsaini231/ecell-website)
 - 🔹 [Anwesha Website Contributions](https://github.com/ajaykumarsaini231/anwesha-website)
-- 🔹 [Vite Project](https://github.com/ajaykumarsaini231/vite-project)
+- 🔹 [salesforce clone](https://github.com/ajaykumarsaini231/vite-project)
 - 🔹 [Moodboard Project](https://github.com/ajaykumarsaini231/moodboard-project)
-- 🔹 [Amazon Clone](https://github.com/ajaykumarsaini231/amazon)
+- 🔹 [Node.js School Management API](https://github.com/ajaykumarsaini231/school-management-api)
 
 ## 📊 GitHub Stats
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajaykumarsaini231&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ajaykumarsaini231&theme=tokyonight" />
+<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ajaykumarsaini231&theme=tokyonight" /> -->
 </p>
 
 ## 🤖 Fun Fact
