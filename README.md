@@ -1,15 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Saini</h1>
-<h3 align="center">Next.js | Django | Node.js | Compilers | Computational Metallurgy</h3>
+<h3 align="center">Next.js | Django | Node.js | React.js | Express.js</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=AjayKumarSaini&label=Profile%20Views&color=0e75b6&style=flat" alt="AjayKumarSaini" />
 </p>
 
-- 🚀 Currently working on **SimpleLang Compiler for an 8-bit CPU**
+
 - 🏗 Developed **E-Cell Website & Anwesha Contributions**
 - 💻 Tech Stack: **Next.js, Django, Node.js, MySQL, Compilers**
-- 🏢 Applying for **DRDO Internship (DMSRDE, NMRL, ARDE)**
-- 🧪 Researching **Polymers & Computational Metallurgy**
 - ⚡ Open Source Contributor
 
 ## 🚀 My Tech Stack
