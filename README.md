@@ -1,42 +1,115 @@
-<h1 align="center">Hi 👋, I'm Ajay Kumar Saini</h1>
-<h3 align="center">Next.js | Django | Node.js | React.js | Express.js</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajaykumarsaini231&label=Profile%20Views&color=0e75b6&style=flat" alt="AjayKumarSaini" />
+---
+
+# 👋 Hello there! I'm **Ajay Kumar Saini**
+
+<a>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=ajaykumarsaini231&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" 
+    align="right" 
+  />
+</a>
+
+
+<p align="left">
+  <a href="https://github.com/ajaykumarsaini231">
+    <img src="https://komarev.com/ghpvc/?username=ajaykumarsaini231" alt="Profile Views">
+  </a>
+  <a href="https://github.com/ajaykumarsaini231?tab=followers">
+    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/ajaykumarsaini231?color=green&logo=github">
+  </a>
 </p>
 
-- 🏗 Developed **E-Cell Website & Anwesha Contributions**
-- 💻 Tech Stack: **Next.js, Django, Node.js, PostgreSQL, TypeScript**
-- ⚡ Open Source Contributor & Competitive Programmer
+---
 
-## 🚀 My Tech Stack
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js)
-![React.js](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-000?style=for-the-badge&logo=express)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite)
+* 🏫 I'm a **B.Tech student (MME)** at **IIT Patna**
+* 💻 I'm learning **Backend Development & DSA**
+* 🚀 Working on improving my development and problem-solving skills
+* 🔥 **Hobby:** Coding
+* 🤝 I love learning new tech and building interesting projects
 
-## 📌 Featured Projects
-- 🔹 [E-Cell Website](https://github.com/ajaykumarsaini231/ecell-website)
-- 🔹 [Anwesha Website Contributions](https://github.com/ajaykumarsaini231/anwesha-website)
-- 🔹 [salesforce clone](https://github.com/ajaykumarsaini231/vite-project)
-- 🔹 [Moodboard Project](https://github.com/ajaykumarsaini231/moodboard-project)
-- 🔹 [Node.js School Management API](https://github.com/ajaykumarsaini231/school-management-api)
+---
+
+## 💡 What I'm Working On:
+
+* **Backend Development** (`Node.js`, `Express`, `FastAPI`, `Python`)
+* **Frontend Basics** (`HTML`, `CSS`, `JavaScript`)
+* **Databases** (`MySQL`, `PostgreSQL`)
+* **Computer Science fundamentals** (`DSA`, `CP`)
+
+<a>
+  <img align="right" width="300" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumarsaini231&langs_count=8&theme=algolia&layout=compact" />
+</a>
+
+---
+
+## 🛠 Tech Stack
+
+### **Languages & Backend**
+
+![Python](https://img.shields.io/badge/-Python-000?style=flat\&logo=python)
+![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=flat\&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-000?style=flat\&logo=express)
+
+### **Frontend**
+
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat\&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat\&logo=CSS3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat\&logo=javascript)
+
+### **Database & Tools**
+
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat\&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat\&logo=postgresql)
+![Git](https://img.shields.io/badge/-Git-000?style=flat\&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat\&logo=github)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat\&logo=linux)
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ajaykumarsaini231&column=7&no-frame=true&no-bg=true&margin-w=10" />
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<div align="center">
+  <img height="280px" src="https://github-readme-activity-graph.vercel.app/graph?username=ajaykumarsaini231&theme=minimal"/>
+</div>
+
+---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ajaykumarsaini231&show_icons=true&theme=tokyonight" />
-<!--   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=ajaykumarsaini231&theme=tokyonight" /> -->
-</p>
 
-## 🤖 Fun Fact
-💡 *Did you know?*  
- I’m  passionate about **polymers & computational metallurgy!** 🔬⚙️
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumarsaini231&theme=white&hide_border=true" width="48%" />
+<img src="https://github-readme-stats-mauve-ten.vercel.app/api?username=ajaykumarsaini231&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ajay-kumar-saini-44b99a284/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ajaykumarsaini231)
+---
+
+## 🧑‍💻 A Little More About Me…
+
+```python
+AJAY = {
+  "pronouns": "He/Him",
+  "backend": ["NodeJS", "Express", "Python", "FastAPI"],
+  "frontend": ["HTML", "CSS", "JavaScript"],
+  "database": ["MySQL", "PostgreSQL"],
+  "tools": ["Git", "Linux"],
+  "hobby": "Coding ❤️"
+}
+```
+
+---
+
+## 🤝 Let's Connect
+
+If you want to collaborate or ask anything, feel free to reach out:
+📧 **[nabalsaini231@gmail.com](mailto:nabalsaini231@gmail.com)**
+
+---
+
+
