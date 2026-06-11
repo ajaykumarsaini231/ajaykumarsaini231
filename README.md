@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm Ajay Kumar Saini</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full-Stack+Builder+%7C+I+ship+production+systems;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Metallurgy+%40+IIT+Patna+%2B+Software+Engineer;Building+real+products%2C+not+toy+apps" alt="Typing SVG" />
-  </a>
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full-Stack+Builder+%7C+I+ship+production+systems;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Metallurgy+%40+IIT+Patna+%2B+Software+Engineer;Building+real+products%2C+not+toy+apps"
+    alt="Typing SVG"
+  />
 </p>
 
 <a>
