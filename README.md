@@ -2,15 +2,16 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full-Stack+Builder+%7C+I+ship+production+systems;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+MongoDB;Metallurgy+%40+IIT+Patna+%2B+Software+Engineer;Building+real+products%2C+not+toy+apps"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=22C55E&center=true&vCenter=true&width=900&lines=Full-Stack+Builder+%7C+I+ship+production+systems;Next.js+16+App+Router+%E2%80%A2+React+19+%E2%80%A2+TypeScript+(strict);Tailwind+v4+%E2%80%A2+shadcn%2Fui+%E2%80%A2+Zustand+%E2%80%A2+TanStack+Query;Metallurgy+%40+IIT+Patna+%2B+Software+Engineer;Building+real+products%2C+not+toy+apps"
     alt="Typing SVG"
   />
 </p>
 
-<a>
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=ajaykumarsaini231&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&rank_icon=github" 
-    align="right" 
+<a href="https://github.com/ajaykumarsaini231">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajaykumarsaini231&theme=github_dark"
+    align="right"
+    width="330"
   />
 </a>
 
@@ -32,10 +33,11 @@
 ---
 
 * 🏗️ I'm a **full-stack builder** — I design and ship **production systems**, not toy apps
+* ⚡ Daily driver: **Next.js 16 (App Router)** · **React 19** · **TypeScript (`strict: true`)** · **Tailwind CSS v4** · **Node.js**
 * 🏫 B.Tech in **Metallurgical & Materials Engineering** at **IIT Patna**
-* 💼 Currently building a **production Operations Dashboard at METNMAT** — Next.js · TypeScript · MongoDB — used by a deep-tech metallurgy firm
+* 💼 Currently building a **production Operations Dashboard at METNMAT** — used daily by a deep-tech metallurgy firm
+* 🧪 I ship with a net: **330+ test files**, strict TypeScript, Dockerised deploys
 * ⚙️ Rare combo: I write production software **and** understand the heavy-industry domain it runs in
-* 🚀 Always shipping — full-stack apps, AI-powered tools, and real business platforms
 * 🤝 I love turning hard problems into clean, working products
 
 ---
@@ -51,60 +53,66 @@
 
 End-to-end business platform for a deep-tech metallurgy company (clients incl. **Tata Steel**, **Jindal Stainless**).
 
-- 🔐 **NextAuth + Gmail-based OTP 2FA**
+- 🧱 **Next.js 16 App Router** + **React 19** in strict TypeScript
+- 🎛️ **shadcn/ui** + Tailwind v4 design system, **Zustand** + **TanStack Query** for state
+- 🔐 **NextAuth + Gmail-based OTP 2FA**, role-based access control across modules
 - 💬 **WhatsApp Cloud API** — templates, media, webhooks, inbox
-- 📧 **Gmail → enquiry** auto-sync pipeline
 - 🧾 Full **enquiry → quotation → order → invoice** flow with **PDF/DOCX** generation
-- 🛡️ Role-based access control across modules
+- 🧪 **330+ test files** · 🐳 **Docker** deploy
 
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![Next.js](https://img.shields.io/badge/-Next.js%2016-000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React%2019-000?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 
-<a href="#"><img src="https://img.shields.io/badge/-Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Dreamora — E-Commerce Platform
-**`full-stack`**
-
-Production-grade storefront with concurrency-safe transactions.
-
-- ⚡ **~30% lower API latency** via caching + query optimization
-- 🗄️ Indexed **PostgreSQL** schemas, REST APIs
-- 🔐 **JWT + RBAC** auth, 100+ concurrent sessions
-
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?style=flat&logo=tailwind-css)
-
-<a href="#"><img src="https://img.shields.io/badge/-Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-Private%20%C2%B7%20client%20product-6B7280?style=for-the-badge&logo=lock&logoColor=white">
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🧠 Questivo — AI Mock-Test Platform
-**`AI-powered`**
+**`AI-powered · live`**
 
 AI engine that generates contextual mock tests in real time.
 
 - 🤖 **1,000+ unique** AI-generated questions
 - 🔎 Embedding-based **similarity search** for relevance
 - ⚡ **Sub-second inference** via Groq (Llama 3.3)
+- 🔌 **Socket.IO** realtime layer over an **Express** API
+- 🧪 Unit-tested with **Vitest**
 
 ![React](https://img.shields.io/badge/-React%2019-000?style=flat&logo=react)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
+![Vitest](https://img.shields.io/badge/-Vitest-000?style=flat&logo=vitest)
 ![Groq](https://img.shields.io/badge/-Groq%20AI-000?style=flat&logo=lightning)
+
+<a href="https://questivo.vercel.app/"><img src="https://img.shields.io/badge/-Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/ajaykumarsaini231/Questivo"><img src="https://img.shields.io/badge/-Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛒 Dreamora — E-Commerce Platform
+**`full-stack · live`**
+
+Production-grade storefront with concurrency-safe transactions.
+
+- ⚡ **~30% lower API latency** via caching + query optimization
+- 🗄️ Indexed **PostgreSQL** schemas (Prisma), REST APIs
+- 🔐 **JWT + RBAC** auth, 100+ concurrent sessions
+
+![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
+![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma)
 
-<a href="#"><img src="https://img.shields.io/badge/-Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"></a>
-<a href="#"><img src="https://img.shields.io/badge/-Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://client-delta-brown.vercel.app/"><img src="https://img.shields.io/badge/-Live-22C55E?style=for-the-badge&logo=vercel&logoColor=white"></a>
+<a href="https://github.com/ajaykumarsaini231/Dreamora"><img src="https://img.shields.io/badge/-Frontend-000?style=for-the-badge&logo=github&logoColor=white"></a>
+<a href="https://github.com/ajaykumarsaini231/server_Dreamora"><img src="https://img.shields.io/badge/-Backend-000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 <td width="50%" valign="top">
@@ -121,8 +129,8 @@ Official IIT Patna platforms I led end-to-end.
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 
-<a href="https://anwesha.iitp.ac.in"><img src="https://img.shields.io/badge/-anwesha.iitp.ac.in-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
 <a href="https://ecell.iitp.ac.in"><img src="https://img.shields.io/badge/-ecell.iitp.ac.in-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white"></a>
+<a href="https://github.com/ajaykumarsaini231/anwesha-frontend-iitp"><img src="https://img.shields.io/badge/-Anwesha%20Code-000?style=for-the-badge&logo=github&logoColor=white"></a>
 
 </td>
 </tr>
@@ -130,77 +138,65 @@ Official IIT Patna platforms I led end-to-end.
 
 ---
 
-## 🛠️ Technical Skills
-
-### **Languages**
-- C, C++, Python, HTML, CSS, JavaScript, TypeScript
-
-### **Frameworks**
-- React.js, Next.js, Node.js, Express.js, Tailwind CSS, Bootstrap, Django
-
-### **Backend & Systems**
-- REST API Design, Backend Systems, Database Optimization, JWT, RBAC, Authentication
-
-### **Tools**
-- Git, GitHub, Vercel, Postman, NumPy, Pandas, Responsive Web Design
-
-### **Soft Skills**
-- Leadership, Team Coordination, Communication, Analytical Thinking
-
-<a>
-  <img align="right" width="300" height="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajaykumarsaini231&langs_count=8&theme=algolia&layout=compact" />
-</a>
-
----
-
 ## 🛠 Tech Stack
 
-### **Languages**
-![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
-![CPP](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
-![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat&logo=css3)
+### **Core**
+![Next.js](https://img.shields.io/badge/-Next.js%2016%20App%20Router-000?style=flat&logo=next.js)
+![React](https://img.shields.io/badge/-React%2019-000?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript%20%28strict%29-000?style=flat&logo=typescript)
+![NodeJS](https://img.shields.io/badge/-Node.js-000?style=flat&logo=node.js)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript)
 
-### **Frameworks**
-![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat&logo=next.js)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=flat&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=flat&logo=bootstrap)
-![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django)
-![NodeJS](https://img.shields.io/badge/-NodeJS-000?style=flat&logo=node.js)
+### **Frontend & UI**
+![TailwindCSS](https://img.shields.io/badge/-Tailwind%20CSS%20v4-000?style=flat&logo=tailwind-css)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000?style=flat&logo=shadcnui)
+![Radix UI](https://img.shields.io/badge/-Radix%20UI-000?style=flat&logo=radixui)
+![Motion](https://img.shields.io/badge/-Motion%20%2F%20Framer%20Motion-000?style=flat&logo=framer)
+![CSS Variables](https://img.shields.io/badge/-CSS%20Variables-000?style=flat&logo=css3)
+![Responsive](https://img.shields.io/badge/-Responsive%20%26%20a11y-000?style=flat)
+
+### **State & Data Fetching**
+![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat)
+![TanStack Query](https://img.shields.io/badge/-TanStack%20Query-000?style=flat&logo=reactquery)
+![Axios](https://img.shields.io/badge/-Axios-000?style=flat&logo=axios)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-000?style=flat&logo=socket.io)
+
+### **Backend & Database**
 ![Express](https://img.shields.io/badge/-Express-000?style=flat&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB%20%2F%20Mongoose-000?style=flat&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
 ![Prisma](https://img.shields.io/badge/-Prisma-000?style=flat&logo=prisma)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
+![NextAuth](https://img.shields.io/badge/-NextAuth-000?style=flat&logo=auth0)
+![JWT](https://img.shields.io/badge/-JWT%20%2B%20RBAC-000?style=flat&logo=jsonwebtokens)
+![REST](https://img.shields.io/badge/-REST%20API%20Design-000?style=flat)
 
-### **Tools**
+### **Testing & Tooling**
+![Vitest](https://img.shields.io/badge/-Vitest-000?style=flat&logo=vitest)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat&logo=github)
 ![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
+![Vite](https://img.shields.io/badge/-Vite-000?style=flat&logo=vite)
 ![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)
-![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux)
-![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-000?style=flat)
 
-### **Database & Auth**
-![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat&logo=mysql)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000?style=flat&logo=mongodb)
-![JWT](https://img.shields.io/badge/-JWT-000?style=flat&logo=jsonwebtokens)
-
-### **Computer Science Fundamentals**
+### **Also comfortable with**
+![C](https://img.shields.io/badge/-C-000?style=flat&logo=c)
+![CPP](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus)
+![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python)
+![Groq](https://img.shields.io/badge/-Groq%20%2F%20LLM%20APIs-000?style=flat&logo=lightning)
 ![DSA](https://img.shields.io/badge/-DSA%20650%2B-000?style=flat)
-![CP](https://img.shields.io/badge/-Competitive%20Programming-000?style=flat)
-![API Design](https://img.shields.io/badge/-API%20Design-000?style=flat)
+
+> 📚 **Currently picking up:** GSAP · Lenis smooth scroll · Embla · next-intl (i18n routing) · Stripe Elements
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Where My Commits Go
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ajaykumarsaini231&column=7&no-frame=true&no-bg=true&margin-w=10" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajaykumarsaini231&theme=github_dark" width="43%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajaykumarsaini231&theme=github_dark&utcOffset=5.5" width="43%" />
 </p>
 
 ---
@@ -215,25 +211,31 @@ Official IIT Patna platforms I led end-to-end.
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ajaykumarsaini231&theme=white&hide_border=true" width="48%" />
-<img src="https://github-readme-stats-mauve-ten.vercel.app/api?username=ajaykumarsaini231&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" width="48%" />
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajaykumarsaini231&theme=github_dark" width="88%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=ajaykumarsaini231&theme=default&hide_border=true" width="60%" />
+</p>
 
 ---
 
 ## 🧑‍💻 A Little More About Me…
 
-```python
-AJAY = {
-  "role": "Full-stack builder · Metallurgy + Software",
-  "currently_building": "METNMAT Operations Dashboard (Next.js · TS · MongoDB)",
-  "backend": ["Node.js", "Express", "Next.js API", "Python", "FastAPI"],
-  "frontend": ["React", "Next.js", "TypeScript", "Tailwind"],
-  "database": ["PostgreSQL", "MongoDB", "MySQL"],
-  "tools": ["Git", "Vercel", "Linux"],
-  "interests": ["production systems", "AI-powered apps", "industrial software"],
-  "ships_real_products": True,
-  "hobby": "Coding ❤️"
-}
+```ts
+const AJAY = {
+  role: "Full-stack builder · Metallurgy + Software",
+  currentlyBuilding: "METNMAT Operations Dashboard",
+  core: ["Next.js 16 (App Router)", "React 19", "TypeScript (strict)", "Node.js"],
+  ui: ["Tailwind CSS v4", "shadcn/ui", "Radix", "Motion"],
+  state: ["Zustand", "TanStack Query", "Axios"],
+  data: ["MongoDB / Mongoose", "PostgreSQL / Prisma"],
+  testing: ["Vitest", "node:test", "330+ test files"],
+  interests: ["production systems", "AI-powered apps", "industrial software"],
+  shipsRealProducts: true,
+  hobby: "Coding ❤️",
+} as const;
 ```
 
 ---
