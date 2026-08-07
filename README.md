@@ -24,7 +24,7 @@
   <a href="https://portfolio-virid-two-31.vercel.app/">
     <img alt="Portfolio" src="https://img.shields.io/badge/-Portfolio-22C55E?style=flat&logo=vercel&logoColor=white">
   </a>
-  <a href="https://linkedin.com/in/ajay-kumar-saini">
+  <a href="[https://linkedin.com/in/ajay-kumar-saini](https://www.linkedin.com/in/ajay-kumar-saini-44b99a284/)">
     <img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white">
   </a>
 </p>
@@ -242,7 +242,7 @@ AJAY = {
 
 <p align="left">
   <a href="mailto:nabalsaini231@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://linkedin.com/in/ajay-kumar-saini"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="[https://linkedin.com/in/ajay-kumar-saini](https://www.linkedin.com/in/ajay-kumar-saini-44b99a284/)"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://portfolio-virid-two-31.vercel.app/"><img src="https://img.shields.io/badge/-Portfolio-22C55E?style=for-the-badge&logo=vercel&logoColor=white"></a>
   <a href="https://github.com/ajaykumarsaini231"><img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github&logoColor=white"></a>
 </p>
