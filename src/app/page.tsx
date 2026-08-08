@@ -28,25 +28,47 @@ import CountUp from "react-countup";
 
 const works = [
   {
-    title: "Dreamora",
+    title: "METNMAT Operations Dashboard",
+    category: "production",
+    image: "/metnmat.png",
+    link: "https://github.com/MetnmatEnergy/Metnmat_Dashboard",
+    preview: "https://metnmat-dashboard.vercel.app/",
+  },
+  {
+    title: "DSAspire",
+    category: "education",
+    image: "/dsaaspire.png",
+    link: "https://github.com/ajaykumarsaini231/algo_trackr",
+    preview: "https://dsaspire.sutradharlabs.me/",
+  },
+  {
+    title: "Sutradhar Labs",
     category: "web",
-    image: "/dreamora.png",
-    link: "https://github.com/ajaykumarsaini231",
-    preview: "https://client-delta-brown.vercel.app/profile",
+    image: "/sutradhar.png",
+    link: "https://www.sutradharlabs.me/",
+    preview: "https://www.sutradharlabs.me/",
   },
   {
     title: "Questivo",
     category: "ai",
     image: "/questivo.png",
-    link: "https://questivo.vercel.app/",
-    preview: "https://questivo.vercel.app/",
+    link: "https://github.com/ajaykumarsaini231/Questivo",
+    preview: "https://questivo.sutradharlabs.me/",
+    description: "AI-powered question platform with Telegram bot that serves personalized questions based on branch, JEE/NEET, and DSA topics."
+  },
+  {
+    title: "Dreamora",
+    category: "web",
+    image: "/dreamora.png",
+    link: "https://github.com/ajaykumarsaini231/Dreamora",
+    preview: "https://client-delta-brown.vercel.app/",
   },
   {
     title: "Laptop Solutions",
     category: "web",
     image: "/laptopshop.png",
-    link: "https://laptopsolutions.shop/",
-    preview: "https://laptopsolutions.shop/",
+    link: "https://github.com/ajaykumarsaini231/laptop-solutions",
+    preview: "https://laptopsolutionenterprises.vercel.app/",
   },
 ];
 
@@ -119,8 +141,7 @@ export default function PortfolioHome() {
     { label: "Name", value: "Ajay Kumar Saini" },
     { label: "Degree", value: "B.Tech, Materials Engineering" }, // Resume se academic focus
     { label: "Institution", value: "IIT Patna" }, // High value stat
-    { label: "CPI", value: "7.82" },
-    { label: "Technical Lead", value: "Anwesha / E-Cell (IITP)" },
+    { label: "CPI", value: "7.88" },
     { label: "e-mail", value: "nabalsaini231@gmail.com" }, // Resume se Contact
     { label: "Location", value: "Patna, Bihar" },
     { label: "JEE Rank (Top %)", value: "Top 2% (Advanced)" }, // High Value Stat
@@ -131,62 +152,202 @@ export default function PortfolioHome() {
       title: "Languages",
       skills: [
         {
-          name: "C++",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
-        },
-        {
-          name: "Python",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+          name: "TypeScript",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
         },
         {
           name: "JavaScript",
           icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg",
         },
         {
-          name: "TypeScript",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg",
+          name: "Python",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg",
+        },
+        {
+          name: "SQL",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg",
+        },
+        {
+          name: "C++",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg",
+        },
+        {
+          name: "C",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg",
         },
       ],
     },
     {
-      title: "Web Technologies",
+      title: "Backend",
       skills: [
         {
-          name: "React.js",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+          name: "Node.js",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
         },
         {
           name: "Next.js",
           icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg",
         },
         {
-          name: "Node.js",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+          name: "REST APIs",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
         },
         {
-          name: "Tailwind CSS",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+          name: "Prisma ORM",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg",
+        },
+        {
+          name: "NextAuth",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+        },
+        {
+          name: "JWT",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg",
         },
       ],
     },
     {
-      title: "Databases & Tools",
+      title: "Databases",
       skills: [
-        {
-          name: "PostgreSQL",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
-        },
         {
           name: "MongoDB",
           icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
         },
         {
+          name: "PostgreSQL",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+        },
+        {
+          name: "Schema Design",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+        },
+        {
+          name: "Indexing",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        },
+        {
+          name: "Aggregation Pipelines",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg",
+        },
+        {
+          name: "Query Optimization",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg",
+        },
+      ],
+    },
+    {
+      title: "Frontend",
+      skills: [
+        {
+          name: "React",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        },
+        {
+          name: "Tailwind CSS",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg",
+        },
+        {
+          name: "Zustand",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg",
+        },
+        {
+          name: "Redux Toolkit",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg",
+        },
+        {
+          name: "Server Components",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg",
+        },
+        {
+          name: "UI/UX",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg",
+        },
+      ],
+    },
+    {
+      title: "Cloud & DevOps",
+      skills: [
+        {
+          name: "GCP",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg",
+        },
+        {
+          name: "AWS",
+          icon: "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonwebservices.svg",
+        },
+        {
+          name: "Docker",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+        },
+        {
+          name: "GitHub Actions",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg",
+        },
+        {
+          name: "CI/CD",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg",
+        },
+        {
           name: "Git",
           icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg",
         },
+      ],
+    },
+    {
+      title: "Integrations & AI",
+      skills: [
         {
-          name: "Prisma",
-          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg",
+          name: "Amazon SP-API",
+          icon: "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/amazonwebservices.svg",
+        },
+        {
+          name: "Zoho Books",
+          icon: "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/zoho.svg",
+        },
+        {
+          name: "WhatsApp Cloud",
+          icon: "https://cdn.jsdelivr.net/npm/simple-icons@latest/icons/whatsapp.svg",
+        },
+        {
+          name: "Google Drive",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg",
+        },
+        {
+          name: "Gmail",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg",
+        },
+        {
+          name: "OAuth 2.0",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        },
+      ],
+    },
+    {
+      title: "Engineering",
+      skills: [
+        {
+          name: "System Design",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+        },
+        {
+          name: "Distributed Locking",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg",
+        },
+        {
+          name: "Idempotency",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        },
+        {
+          name: "Background Workers",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg",
+        },
+        {
+          name: "Rate Limiting",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
+        },
+        {
+          name: "WebSockets",
+          icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg",
         },
       ],
     },
@@ -223,23 +384,35 @@ export default function PortfolioHome() {
 
   const education = [
     {
-      title: "B.Tech – Metallurgical Engineering | IIT Patna",
-      year: "2023 – 2027",
-      desc: "Currently pursuing B.Tech at IIT Patna with focus on algorithms, backend systems and scalable web applications.",
+      title: "Indian Institute of Technology Patna (IIT Patna)",
+      subtitle: "B.Tech in Metallurgical and Materials Engineering",
+      detail: "CPI: 7.82 • Current undergraduate student",
     },
     {
       title: "Class XII – Board of Secondary Education Rajasthan",
-      year: "2021 – 2022",
-      desc: "Completed senior secondary education with strong academic performance.",
+      subtitle: "Senior Secondary",
+      detail: "Completed senior secondary education with strong academic performance.",
     },
     {
       title: "Class X – Govt. Sr. Sec. School Mahukalan",
-      year: "2020",
-      desc: "Completed 10th with 91.17% under the Board of Secondary Education Rajasthan.",
+      subtitle: "Secondary School",
+      detail: "Completed 10th under the Board of Secondary Education Rajasthan.",
     },
   ];
 
   const experience = [
+    {
+      title: "Full-Stack Developer Intern – METNMAT Innovations Pvt. Ltd.",
+      year: "Jan 2025 – Present",
+      location: "Remote / India",
+      bullets: [
+        "Owned a 147,000-line production ERP spanning 461 REST endpoints, 60 MongoDB models, and 267 React components across seven business modules, improving data processing efficiency by 15%.",
+        "Designed and implemented a robust, fail-closed upload pipeline with 16 security modules, migrating 238 document binaries to private Google Cloud Storage and shrinking database by 82%.",
+        "Connected Amazon SP-API, Gmail, and Zoho Books through 18 scheduled jobs that reconcile orders, settlements, and GST into double-entry ledgers, cutting manual bookkeeping effort by 70%.",
+        "Developed a quotation-to-invoice engine over five templates with atomic numbering and PDF/DOCX export, cutting document turnaround by 50%, and introduced a WhatsApp AI assistant across 22 read-only tool handlers.",
+        "Raised automated coverage to 2,856 unit and integration tests across 343 suites, and Streamlining every release to Google Cloud Run inside Docker containers."
+      ]
+    },
     {
       title: "Research Intern – IIT Jodhpur",
       year: "May 2025 – Jul 2025",
@@ -673,28 +846,45 @@ export default function PortfolioHome() {
           {/* EDUCATION */}
 
           <div>
-            <div className="flex items-center gap-3 mb-10">
-              <div className="bg-cyan-500 w-12 h-12 flex items-center justify-center rounded-full text-white">
+            <div className="flex items-center gap-3 mb-8 sm:mb-10">
+              <div className="bg-cyan-500 w-12 h-12 flex items-center justify-center rounded-2xl text-white shadow-lg shadow-cyan-500/20">
                 <GraduationCap size={22} />
               </div>
-              <h2 className="text-2xl font-bold text-gray-800 uppercase">
-                Education
-              </h2>
+              <div>
+                <h2 className="text-xl sm:text-2xl font-bold text-slate-900 uppercase tracking-[0.2em]">
+                  Education
+                </h2>
+                <p className="text-sm text-slate-500 mt-1">
+                  Academic background and current status
+                </p>
+              </div>
             </div>
 
-            <div className="space-y-8 border-l-2 border-gray-300 pl-6">
+            <div className="relative space-y-4 sm:space-y-5 pl-4 sm:pl-5">
+              <div className="absolute left-2 top-2 bottom-0 w-px bg-gradient-to-b from-cyan-500 via-cyan-300 to-slate-200" />
               {education.map((item, i) => (
-                <div key={i} className="relative">
-                  <div className="absolute -left-[34px] top-2 w-3 h-3 bg-cyan-500 rounded-full" />
+                <motion.div
+                  key={i}
+                  initial={{ opacity: 0, x: -12 }}
+                  whileInView={{ opacity: 1, x: 0 }}
+                  viewport={{ once: true, amount: 0.3 }}
+                  transition={{ duration: 0.35, delay: i * 0.08 }}
+                  className="relative rounded-2xl border border-slate-200 bg-white/90 p-4 sm:p-5 shadow-[0_10px_30px_-18px_rgba(15,23,42,0.35)]"
+                >
+                  <div className="absolute -left-[7px] top-5 h-3 w-3 rounded-full border-2 border-white bg-cyan-500 shadow-sm" />
 
-                  <div className="bg-gray-200 p-6 rounded shadow-sm">
-                    <h3 className="font-bold text-gray-800">{item.title}</h3>
+                  <h3 className="text-base sm:text-lg font-semibold text-slate-900 leading-snug">
+                    {item.title}
+                  </h3>
 
-                    <p className="text-sm text-gray-600 mt-1">{item.year}</p>
+                  <p className="mt-2 text-[11px] sm:text-xs font-semibold uppercase tracking-[0.25em] text-cyan-600">
+                    {item.subtitle}
+                  </p>
 
-                    <p className="text-gray-600 text-sm mt-3">{item.desc}</p>
-                  </div>
-                </div>
+                  <p className="mt-3 text-sm leading-6 text-slate-600">
+                    {item.detail}
+                  </p>
+                </motion.div>
               ))}
             </div>
           </div>
@@ -721,8 +911,18 @@ export default function PortfolioHome() {
                     <h3 className="font-bold text-gray-800">{item.title}</h3>
 
                     <p className="text-sm text-gray-600 mt-1">{item.year}</p>
+                    
+                    {item.location && <p className="text-xs text-gray-500 mt-1">{item.location}</p>}
 
-                    <p className="text-gray-600 text-sm mt-3">{item.desc}</p>
+                    {item.bullets ? (
+                      <ul className="text-gray-600 text-sm mt-3 ml-4 space-y-2">
+                        {item.bullets.map((bullet, idx) => (
+                          <li key={idx} className="list-disc">{bullet}</li>
+                        ))}
+                      </ul>
+                    ) : (
+                      <p className="text-gray-600 text-sm mt-3">{item.desc}</p>
+                    )}
                   </div>
                 </div>
               ))}
@@ -741,12 +941,12 @@ export default function PortfolioHome() {
           {/* Filters */}
 
           <div className="flex justify-center gap-4 mb-14 flex-wrap">
-            {["all", "web", "ai"].map((item) => (
+            {["all", "production", "education", "ai", "web"].map((item) => (
               <button
                 key={item}
                 onClick={() => setFilter(item)}
                 className={`px-6 py-2 rounded border text-sm font-semibold uppercase tracking-wide transition
-              
+
               ${
                 filter === item
                   ? "bg-cyan-500 text-white"
@@ -771,11 +971,11 @@ export default function PortfolioHome() {
               >
                 {/* Image */}
 
-                <div className="overflow-hidden">
+                <div className="relative aspect-[16/10] overflow-hidden bg-slate-100">
                   <img
                     src={work.image}
                     alt={work.title}
-                    className="w-full h-auto transition-transform duration-500 ease-out group-hover:scale-110"
+                    className="h-full w-full object-cover transition-transform duration-500 ease-out group-hover:scale-110"
                   />
                 </div>
 
@@ -796,6 +996,14 @@ export default function PortfolioHome() {
                   >
                     <Link size={18} />
                   </a>
+                </div>
+
+                {/* Title and Description */}
+                <div className="p-6">
+                  <h3 className="font-bold text-gray-800 text-lg mb-2">{work.title}</h3>
+                  {work.description && (
+                    <p className="text-gray-600 text-sm leading-relaxed">{work.description}</p>
+                  )}
                 </div>
               </motion.div>
             ))}

@@ -1,0 +1,52 @@
+# Ajay Kumar Saini — Portfolio Context
+
+## Profile
+- IIT Patna
+- B.Tech Metallurgical and Materials Engineering
+- CPI: 7.82
+
+## Technical Skills
+- Next.js
+- React
+- Node.js
+- Express.js
+- Django REST
+- PostgreSQL
+- MySQL
+- MongoDB
+- Prisma
+- Tailwind CSS
+- Python
+- C++
+- Git/GitHub
+- Vercel
+- etc.
+
+## Projects
+- Questivo
+- Dreamora
+- E-Cell IIT Patna Website
+- Anwesha Website
+- Other projects present in /projects
+
+## Experience
+- METNMAT Innovations — Web Developer Intern
+- Grindwell Norton / Saint-Gobain — Data & AI Operations Intern
+- Docyt — AI/ML Intern
+- IIT Jodhpur — Research Intern
+
+## Roles
+- E-Cell IIT Patna — Web Development
+- Anwesha IIT Patna — Web Development
+
+## Achievements
+- 650+ DSA problems
+- Amazon ML Summer School 2026
+- Other verified achievements from resume
+
+## Instructions for Portfolio
+- Never invent projects, technologies, metrics, or achievements.
+- Extract technical details from the actual project repositories.
+- Use the resume as the source of truth for experience and achievements.
+- Keep portfolio content technically accurate.
+- Prefer strong, concise engineering descriptions.
