@@ -403,8 +403,8 @@ export default function PortfolioHome() {
   const experience = [
     {
       title: "Full-Stack Developer Intern – METNMAT Innovations Pvt. Ltd.",
-      year: "Jan 2025 – Present",
-      location: "Remote / India",
+      year: "Jan 2026 – Aug 2026",
+      location: "On-site / howrah, West Bengal",
       bullets: [
         "Owned a 147,000-line production ERP spanning 461 REST endpoints, 60 MongoDB models, and 267 React components across seven business modules, improving data processing efficiency by 15%.",
         "Designed and implemented a robust, fail-closed upload pipeline with 16 security modules, migrating 238 document binaries to private Google Cloud Storage and shrinking database by 82%.",
