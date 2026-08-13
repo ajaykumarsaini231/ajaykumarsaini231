@@ -67,8 +67,8 @@ const works = [
     title: "Laptop Solutions",
     category: "web",
     image: "/laptopshop.png",
-    link: "https://github.com/ajaykumarsaini231/laptop-solutions",
-    preview: "https://laptopsolutionenterprises.vercel.app/",
+    link: "https://github.com/ajaykumarsaini231//Laptop_Shop_Ecommerce",
+    preview: "https://laptopsolutions.shop/",
   },
 ];
 
